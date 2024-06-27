@@ -15,7 +15,7 @@ a{
     color: white;
     opacity: 0;
 }
-.in{
+.is{
     position: absolute;
     top: 57px;
     left: 270px;
@@ -27,7 +27,7 @@ a{
     color: #ffffff;
     opacity: 1;
 }
-.int{
+.in{
     position: absolute;
     top: 34%;
     left: 27%;
@@ -36,7 +36,7 @@ a{
     letter-spacing: 0px;
     opacity: 1;
 }
-.intt{
+.int{
     text-decoration: none;
     position: absolute;
     top: 58px;
@@ -49,7 +49,7 @@ a{
     color: #ffffff;
     opacity: 1;
 }
-.inttt{
+.ins{
     text-decoration: none;
     position: absolute;
     top: 58px;
@@ -62,35 +62,35 @@ a{
     color: #ffffff;
     opacity: 1;
 }
-.content {
-    padding-top: 9%; /* Ajustar al tamaño del header */
+.contenido {
+    padding-top: 9%; 
     top: 167px;
     left: 0px;
     width: 1920px;
     height: 1000px;
 }
-.ingre{
+.ingreso{
     position: absolute;
     top: 572px;
     left: 1180px;
     width: 366px;
     height: 55px;
 }
-.debi{
+.deb{
     position: absolute;
     top: 644px;
     left: 1005px;
     width: 698px;
     height: 160px;
 }
-.conoce{
+.conocer{
     position: absolute;
     top: 843px;
     left: 1249px;
     width: 209px;
     height: 53px;
 }
-.Consulta {
+.Consultar {
     position: absolute;
     top: 261px;
     left: 108px;
@@ -98,14 +98,14 @@ a{
     height: 800px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacarla */
 }
-.quees{
+.ques{
     position: absolute;
     top: 1356px;
     left: 674px;
     width: 622px;
     height: 55px;
 }
-.esun{
+.eun{
     position: absolute;
     top: 1481px;
     left: 215px;
@@ -113,13 +113,13 @@ a{
     height: 220px;
 }
 
-.esun2{
+.eun2{
     position: absolute;
     top: 1702px;
     left: 167px;
     width: 874px;
     height: 336px;
-/* UI Properties */
+
 color: var(--unnamed-color-000000);
 text-align: center;
 font: normal normal 300 36px/50px Myriad Pro;
@@ -128,7 +128,7 @@ color: #000000;
 opacity: 1;
 }
 
-.para{
+.par{
     position: absolute;
     top: 1349px;
     left: 953px;
@@ -144,7 +144,7 @@ opacity: 1;
     height: 56px;   
 }
 
-.etap{
+.eta2{
     position: absolute;
     top: 2216px;
     left: 756px;
@@ -152,49 +152,49 @@ opacity: 1;
     height: 55px;
 }
 
-.etap1{
+.tap1{
     position: absolute;
     top: 2323px;
     left: 337px;
     width: 132px;
     height: 45px;
 }
-.etap2{
+.tap2{
     position: absolute;
     top: 2323px;
     left: 887px;
     width: 132px;
     height: 45px;
 }
-.etap3{
+.tap3{
     position: absolute;
     top: 2323px;
     left: 1437px;
     width: 132px;
     height: 45px;
 }
-.T1{
+.C1{
     position: absolute;
     top: 2431px;
     left: 209px;
     width: 388px;
     height: 122px;
 }
-.T2{
+.C2{
     position: absolute;
     top: 2431px;
     left: 713px;
     width: 480px;
     height: 51px;
 }
-.T3{
+.C3{
     position: absolute;
     top: 2431px;
     left: 1250px;
     width: 506px;
     height: 51px;
 }
-.banco{
+.bank{
     position: absolute;
     top: 2553px;
     left: 738px;
@@ -202,84 +202,84 @@ opacity: 1;
     height: 55px;
 
 }
-.b1{
+.c1{
     position: absolute;
     top: 2602px;
     left: 209px;
     width: 399px;
     height: 203px;
 }
-.b2{
+.c2{
     position: absolute;
     top: 2561px;
     left: 710px;
     width: 487px;
     height: 244px;
 }
-.b3{
+.c3{
     position: absolute;
     top: 2647px;
     left: 1232px;
     width: 524px;
     height: 119px;
 }
-.b4{
+.c4{
     position: absolute;
     top: 2844px;
     left: 644px;
     width: 243px;
     height: 84px;
 }
-.b5{
+.c5{
     position: absolute;
     top: 2766px;
     left: 960px;
     width: 299px;
     height: 212px;
 }
-.prt{
+.pri{
     position: absolute;
     top: 2999px;
     left: 842px;
     width: 206px;
     height: 56px;
 }
-.prtt{
+.prit{
     position: absolute;
     top: 3154px;
     left: 724px;
     width: 472px;
     height: 55px;
 }
-.preg1{
+.pregunta1{
     position: absolute;
     top: 3228px;
     left: 322px;
     width: 1276px;
     height: 365px;
 }
-.preg2{
+.pregunta2{
     position: absolute;
     top: 3641px;
     left: 205px;
     width: 1510px;
     height: 286px;
 }
-.preg3{
+.pregunta3{
     position: absolute;
     top: 4105px;
     left: 147px;
     width: 1618px;
     height: 431px;
 }
-.preg4{
+.pregunta4{
     position: absolute;
     top: 4555px;
     left: 77px;
     width: 1776px;
     height: 326px;
 }
-.preg5{
+.pregunta5{
 
     position: absolute;
     top: 4992px;
@@ -287,35 +287,35 @@ opacity: 1;
     width: 1740px;
     height: 286px;
 }
-.vrs{
+.var{
     position: absolute;
     top: 3946px;
     left: 918px;
     width: 76px;
     height: 56px;    
 }
-.vrs2{
+.var2{
     position: absolute;
     top: 4904px;
     left: 927px;
     width: 76px;
     height: 56px;
 }
-.tmpr{
+.ptm{
     position: absolute;
     top: 5306px;
     left: 91px;
     width: 1742px;
     height: 317px;
 }
-.final{
+.end{
     position: absolute;
     top: 5711px;
 left: 0px;
 width: 1920px;
 height: 285px;
 }
-.tnmsp{
+.pam{
     position: absolute;
     top: 5349px;
     left: 695px;
@@ -323,14 +323,14 @@ height: 285px;
     height: 55px;   
 }
 
-.nds{
+.contactanos{
     position: absolute;
     top: 5445px;
     left: 318px;
     width: 1318px;
     height: 40px;    
 }
-.bnt{
+.bn{
     background: transparent url('img/Boton_ConocerMás.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     position: absolute;
@@ -339,3 +339,4 @@ height: 285px;
     width: 209px;
     height: 53px;    
 }
+
